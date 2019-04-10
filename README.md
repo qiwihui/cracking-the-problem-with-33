@@ -1,2 +1,3 @@
 # cracking-the-problem-with-33
-解决33问题，中文
+
+论文 [Cracking the problem with 33](https://arxiv.org/abs/1903.04284) 的中文翻译
